@@ -1,0 +1,19 @@
+NACA 0012
+PPAR
+N 20
+
+
+PSAV Save_Airfoil.txt
+OPER
+iter
+500
+Re 278000
+Mach 0.15863
+visc 
+Alfa 1
+CPWR Save_Cp.txt
+PACC Save_LD.pol
+Save_LD.pol
+
+Alfa 1
+PACC Save_LD.pol
